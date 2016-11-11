@@ -1,4 +1,4 @@
-# some-useful-android-open-projects
+# Some useful android open projects
 
 
 ### Index
@@ -6,3 +6,4 @@
 * [greenDAO](https://github.com/greenrobot/greenDAO) greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. 
 * [EventBus](https://github.com/greenrobot/EventBus) Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 * [leakcanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
+* [picasso](https://github.com/square/picasso) A powerful image downloading and caching library for Android
