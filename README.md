@@ -7,3 +7,6 @@
 * [EventBus](https://github.com/greenrobot/EventBus) Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 * [leakcanary](https://github.com/square/leakcanary) A memory leak detection library for Android and Java.
 * [picasso](https://github.com/square/picasso) A powerful image downloading and caching library for Android
+* [dagger](https://github.com/square/dagger) A fast dependency injector for Android and Java.
+* [dialogplus](https://github.com/orhanobut/dialogplus) Advanced dialog solution for android.
+* [android-architecture](https://github.com/googlesamples/android-architecture) A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
