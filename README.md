@@ -14,4 +14,4 @@
 
 
 ### Others
-* [flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
+* [flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
