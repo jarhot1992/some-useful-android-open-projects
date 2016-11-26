@@ -10,3 +10,8 @@
 * [dagger](https://github.com/square/dagger) A fast dependency injector for Android and Java.
 * [dialogplus](https://github.com/orhanobut/dialogplus) Advanced dialog solution for android.
 * [android-architecture](https://github.com/googlesamples/android-architecture) A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+
+
+
+### Others
+* [flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
